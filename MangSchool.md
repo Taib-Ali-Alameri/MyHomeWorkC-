@@ -1,2 +1,0 @@
-# MyHomeWorkC-
-c#

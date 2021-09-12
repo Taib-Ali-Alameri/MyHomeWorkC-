@@ -1,0 +1,5 @@
+E:\برامج تطبيقيةC#\MangSchoolApi\bin\Debug\MangSchoolApi.dll
+E:\برامج تطبيقيةC#\MangSchoolApi\bin\Debug\MangSchoolApi.pdb
+E:\برامج تطبيقيةC#\MangSchoolApi\obj\Debug\MangSchoolApi.csprojResolveAssemblyReference.cache
+E:\برامج تطبيقيةC#\MangSchoolApi\obj\Debug\MangSchoolApi.dll
+E:\برامج تطبيقيةC#\MangSchoolApi\obj\Debug\MangSchoolApi.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangSChool", "MangSChool.csproj", "{0A68E5AF-CCBA-43DB-ADE1-C6D84B60997B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangSchoolApi", "..\MangSchoolApi\MangSchoolApi.csproj", "{126738BA-C4EA-4373-B1DC-9C5054A0B1C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A68E5AF-CCBA-43DB-ADE1-C6D84B60997B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A68E5AF-CCBA-43DB-ADE1-C6D84B60997B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A68E5AF-CCBA-43DB-ADE1-C6D84B60997B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A68E5AF-CCBA-43DB-ADE1-C6D84B60997B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126738BA-C4EA-4373-B1DC-9C5054A0B1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126738BA-C4EA-4373-B1DC-9C5054A0B1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126738BA-C4EA-4373-B1DC-9C5054A0B1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126738BA-C4EA-4373-B1DC-9C5054A0B1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
